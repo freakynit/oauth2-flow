@@ -2,6 +2,8 @@
 
 This repository contains a FastAPI application that performs OAuth 2.0 authentication.
 
+![Frontend Screenshot](screenshot_frontend.png "Frontend Screenshot")
+
 ## Functionality
 
 The application provides a simple web interface for you to initiate the OAuth 2.0 flow.  Upon successful authentication, the application retrieves the access token and displays it in browser. For now, supports only `authorization_code` of grant type. This is anyways the most common one.
