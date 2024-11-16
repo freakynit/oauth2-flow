@@ -2,7 +2,7 @@
 
 This repository contains a FastAPI application that performs OAuth 2.0 authentication.
 
-![Frontend Screenshot](screenshot_frontend.png "Frontend Screenshot")
+<img src="./screenshot_frontend.png" alt="Frontend Screenshot" style="max-width: 50%; height: auto;">
 
 ## Functionality
 
