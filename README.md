@@ -31,14 +31,15 @@ The application provides a simple web interface for you to initiate the OAuth 2.
    python server.py
    ```
 
-   This will start the application on `http://127.0.0.1:8000`. But, preferabley, visit at `http://127-0-0-1.traefik.me:8000`. Change ports accordingly as set.
+   This will start the application on `http://127.0.0.1:8000`. But, preferabley, visit at [http://127-0-0-1.traefik.me:8000](http://127-0-0-1.traefik.me:8000). Change ports accordingly as set.
    
 4. **HTTPS**
-Use `mkcert` tool to generate local root CA and certificates for localhost, if needed.
+   
+   Use `mkcert` tool to generate local root CA and certificates for localhost, if needed.
 
 ## Usage
 
-1. Open your web browser and navigate to `http://127-0-0-1.traefik.me:8000`.
+1. Open your web browser and navigate to [http://127-0-0-1.traefik.me:8000](http://127-0-0-1.traefik.me:8000).
 2. Click the "Begin Oauth 2.0 Flow" button.
 3. You will be redirected to your provider's authorization page.
 4. Log in to your provider's account and authorize the application.
